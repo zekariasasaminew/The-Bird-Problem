@@ -7,6 +7,7 @@ wood_pigeon_price = 1 / 3
 lark_price = 0.25
 chicken_price = 1
 count = 0
+bitanya = 0
 
 # Iterate through different quantities of each bird
 for ducks in range(1, total_budget // duck_price + 1):
